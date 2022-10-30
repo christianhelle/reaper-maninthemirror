@@ -10,3 +10,7 @@ The following VST Plugins are used:
 - [BiasAMP by Positive Grid](https://www.positivegrid.com/products/bias-amp-2)
 - [Ample Bass P Lite II](https://www.amplesound.net/en/pro-pd.asp?id=19)
 - [Polytune by TC Electronic](https://www.tcelectronic.com/product.html;jsessionid=1C5C0ED2CA36A09EBC4A2ED4C7989BAD?modelCode=P0CKF)
+
+Latest version:
+
+https://user-images.githubusercontent.com/710400/198901833-09ea369f-f6be-4e42-a0d3-690806dd42df.mp4
