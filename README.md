@@ -2,7 +2,7 @@
 
 This repository contains [REAPER](https://www.reaper.fm) Media files for an interpretation of the song Man in the Mirror. 
 
-The version of [REAPER](https://www.reaper.fm) used for this project is **vv6.69**
+The version of [REAPER](https://www.reaper.fm) used for this project is **v6.71**
 
 The following VST Plugins are used:
 - [EZDrummer v3](https://www.toontrack.com/product/ezdrummer-3/)
