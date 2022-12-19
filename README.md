@@ -13,4 +13,4 @@ The following VST Plugins are used:
 
 Latest version:
 
-https://user-images.githubusercontent.com/710400/208442441-6331ce63-b6d7-4b21-9c50-f6ff2a49efa0.mp4
+https://user-images.githubusercontent.com/710400/208453338-f2f4235f-065f-4e5e-b520-bd0aab5aed8b.mp4
